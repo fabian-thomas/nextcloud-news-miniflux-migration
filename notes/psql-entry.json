@@ -1,0 +1,44 @@
+{
+    // just use the same
+    "id": 1,
+    // same here too
+    "feed_id": 1,
+
+    // those are the same just convert
+    "published_at": "2022-09-28T06:59:24+00:00",
+    "title": "v3.16.10",
+    "author": "Neamar",
+    "url": "https://github.com/Neamar/KISS/releases/tag/v3.16.10",
+    "content": "<ul>\n<li>Option to default to a web search on enter (<a href=\"https://github.com/harshad1\" rel=\"noopener noreferrer\" target=\"_blank\" referrerpolicy=\"no-referrer\">@harshad1</a>)</li>\n<li>Improvements to &#34;show history when keyboard is displayed&#34; (<a href=\"https://github.com/feilen\" rel=\"noopener noreferrer\" target=\"_blank\" referrerpolicy=\"no-referrer\">@feilen</a>)</li>\n<li>URI search. If an installed app matches the URI, open it directly. Try searching for <code>geo:48.8,4.83</code>, that&#39;s my home :) Each app provides different URI, check their documentation or manifest for additional information. (<a href=\"https://github.com/marunjar\" rel=\"noopener noreferrer\" target=\"_blank\" referrerpolicy=\"no-referrer\">@marunjar</a>)</li>\n<li>Custom icons fixes</li>\n<li>Link to KISS preferences from Android System</li>\n<li>Translation changes</li>\n</ul>",
+    "status": "unread",
+    "starred": false,
+
+    // just keep empty
+    "comments_url": "",
+
+    // just keep empty
+    "tags": [
+
+    ]
+
+    // just all to 1
+    "user_id": 1,
+
+    // no idea what this is
+    // just use that one I guess?
+    "document_vectors": "'4.83':38B '48.8':37B 'a':6B 'additional':54B 'an':24B 'android':65B 'app':26B,44B 'changes':68B 'check':48B 'custom':57B 'default':4B 'different':46B 'directly':32B 'displayed':19B 'documentation':50B 'each':43B 'enter':10B 'feilen':20B 'fixes':59B 'for':35B,53B 'from':64B 'geo':36B 'harshad1':11B 'history':15B 'home':42B 'icons':58B 'if':23B 'improvements':12B 'information':55B 'installed':25B 'is':18B 'it':31B 'keyboard':17B 'kiss':62B 'link':60B 'manifest':52B 'marunjar':56B 'matches':27B 'my':41B 'on':9B 'open':30B 'option':2B 'or':51B 'preferences':63B 'provides':45B 's':40B 'search':8B,22B 'searching':34B 'show':14B 'system':66B 'that':39B 'the':28B 'their':49B 'to':3B,5B,13B,61B 'translation':67B 'try':33B 'uri':21B,29B,47B 'v3.16.10':1A 'web':7B 'when':16B",
+
+    // just keep empty, we dont have it
+    "share_code": "",
+
+    // we dont have it, just 1 everywhere?
+    "reading_time": 1,
+
+    // just use last modified or today or pub date
+    // probably wayne what we use
+    "changed_at": "2023-08-06T08:58:53.312438+00:00",
+    "created_at": "2023-08-06T08:58:53.312438+00:00",
+
+    // this is either sha256sum of guid or url
+    "hash": "1bfecb7c11940eac45840420ec318a367fc187d0bc7833bf1a51c7ceb2849a42",
+}

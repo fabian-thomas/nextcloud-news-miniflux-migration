@@ -1,0 +1,28 @@
+{
+    "id": 2,
+    "title": "Release notes from KISS",
+    "url": "https://github.com/Neamar/KISS/releases.atom",
+    "link": "https://github.com/Neamar/KISS/releases",
+
+    "user_id": "fabian",
+
+    "folder_id": 2,
+
+    "last_modified": 1691350905811178,
+    "url_hash": "90f39784e114b96c09b99d7d677128d8",
+    "location": "https://github.com/Neamar/KISS/releases.atom",
+    "favicon_link": "https://github.githubassets.com/favicons/favicon.svg",
+    "http_last_modified": null,
+    "added": 1667764764,
+    "articles_per_update": 10,
+    "update_error_count": 0,
+    "last_update_error": null,
+    "basic_auth_user": null,
+    "basic_auth_password": null,
+    "deleted_at": 0,
+    "prevent_update": 0,
+    "pinned": 0,
+    "full_text_enabled": 0,
+    "ordering": 0,
+    "update_mode": 0
+}

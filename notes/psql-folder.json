@@ -1,0 +1,10 @@
+{
+    "id": 2,
+    "title": "Releases",
+
+    // just set to 1
+    "user_id": 1,
+
+    // just set to false
+    "hide_globally": false
+}

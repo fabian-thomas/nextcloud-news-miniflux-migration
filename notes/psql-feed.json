@@ -1,0 +1,47 @@
+{
+    "id": 1,
+    "title": "Release notes from KISS",
+    "feed_url": "https://github.com/Neamar/KISS/releases.atom",
+    "site_url": "https://github.com/Neamar/KISS/releases",
+
+    // just all 1
+    "user_id": 1,
+
+    // this is the folder
+    // just the same id
+    "category_id": 2,
+
+    // set it to empty ("")
+    // seems to be a checksum that is used to fetch less often
+    "etag_header": "W/\"0e3fa14d9c31003438ec5028fdf8a17e\"",
+
+    // just all empty
+    "last_modified_header": "",
+    "parsing_error_msg": "",
+    "scraper_rules": "",
+    "rewrite_rules": "",
+    "user_agent": "",
+    "blocklist_rules": "",
+    "keeplist_rules": "",
+    "cookie": "",
+    "url_rewrite_rules": ""
+
+    // set 0
+    "parsing_error_count": 0,
+
+    // set to false
+    "crawler": false,
+    "disabled": false,
+    "ignore_http_cache": false,
+    "fetch_via_proxy": false,
+    "allow_self_signed_certificates": false,
+    "hide_globally": false,
+
+    // we never had that but check
+    "username": "",
+    "password": "",
+
+    // a few minutes ago
+    "next_check_at": "2023-08-06T19:13:05.128535+00:00",
+    "checked_at": "2023-08-06T19:13:05.128535+00:00",
+}

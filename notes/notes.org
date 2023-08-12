@@ -1,0 +1,21 @@
+#+title: Notes
+
+* miniflux
+
+sudo --user=miniflux psql -U miniflux -h /run/postgresql miniflux
+
+select * from entries where title = 'v3.16.10';
+select * from feeds where id = 1;
+select row_to_json(t) from categories as t;
+
+* news
+
+docker exec -it nextcloud-db-1 mysql -u nextcloud --password nextcloud
+
+select concat('select json_object(', group_concat(concat(quote(column_name), ', ', column_name)), ') from oc_news_items where title = "v3.16.10"') into @sql from information_schema.columns where table_name = 'oc_news_items'; prepare stmt from @sql; execute stmt;
+
+select concat('select json_object(', group_concat(concat(quote(column_name), ', ', column_name)), ') from oc_news_feeds where id = 2') into @sql from information_schema.columns where table_name = 'oc_news_feeds'; prepare stmt from @sql; execute stmt;
+
+select concat('select json_object(', group_concat(concat(quote(column_name), ', ', column_name)), ') from oc_news_folders') into @sql from information_schema.columns where table_name = 'oc_news_folders'; prepare stmt from @sql; execute stmt;
+
+select @sql;

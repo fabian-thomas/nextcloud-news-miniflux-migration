@@ -1,0 +1,33 @@
+{
+    "id": 30,
+    "feed_id": 2,
+
+
+
+
+    "pub_date": 1664348364,
+    "title": "v3.16.10",
+    "author": "Neamar",
+    "url": "https://github.com/Neamar/KISS/releases/tag/v3.16.10",
+    "body": "<ul>\n<li>Option to default to a web search on enter (<a target=\"_blank\" rel=\"noreferrer\" href=\"https://github.com/harshad1\">@harshad1</a>)</li>\n<li>Improvements to \"show history when keyboard is displayed\" (<a target=\"_blank\" rel=\"noreferrer\" href=\"https://github.com/feilen\">@feilen</a>)</li>\n<li>URI search. If an installed app matches the URI, open it directly. Try searching for <code>geo:48.8,4.83</code>, that's my home :) Each app provides different URI, check their documentation or manifest for additional information. (<a target=\"_blank\" rel=\"noreferrer\" href=\"https://github.com/marunjar\">@marunjar</a>)</li>\n<li>Custom icons fixes</li>\n<li>Link to KISS preferences from Android System</li>\n<li>Translation changes</li>\n</ul>",
+    "unread": 0,
+    "starred": 0,
+
+
+    "guid_hash": "59245af2c5893a555a0b97472cc913b5",
+    "fingerprint": "d544f3a61ce1b608bec61c3f9737b367",
+    "content_hash": "4189b595642aa455a694540d9c7a1ff7",
+
+    "rtl": 0,
+    "search_index": "\noption to default to a web search on enter (@harshad1)\nimprovements to \"show history when keyboard is displayed\" (@feilen)\nuri search. if an installed app matches the uri, open it directly. try searching for geo:48.8,4.83, that's my home :) each app provides different uri, check their documentation or manifest for additional information. (@marunjar)\ncustom icons fixes\nlink to kiss preferences from android system\ntranslation changes\nneamarv3.16.10https://github.com/neamar/kiss/releases/tag/v3.16.10",
+    "guid": "tag:github.com,2008:Repository/6047468/v3.16.10",
+
+    "enclosure_mime": null,
+    "enclosure_link": null,
+    "media_thumbnail": null,
+    "media_description": null,
+
+    "last_modified": 1667764806943685,
+    "categories_json": "[]",
+    "shared_by": null
+}
